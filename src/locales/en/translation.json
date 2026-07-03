@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "highlights": "Highlights",
+    "attractions": "Attractions",
+    "statistics": "Statistics",
+    "timeline": "Timeline",
+    "gallery": "Gallery",
+    "visitorInfo": "Visitor Info",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Udon Thani\nInternational Horticultural\nExpo 2026",
+    "subtitle": "Where Nature Meets Innovation",
+    "date": "November 1, 2026 – March 14, 2027",
+    "location": "Nong Da Wetland, Kut Sa, Mueang, Udon Thani, Thailand",
+    "cta": "Learn More",
+    "explore": "Explore Expo",
+    "tag": "World-Class"
+  },
+  "about": {
+    "title": "About the Expo",
+    "subtitle": "Udon Thani International Horticultural Expo 2026",
+    "description": "The first International Horticultural Expo in Northeastern Thailand, held under the theme \"Nature and Sustainability,\" promoting eco-tourism, green innovation, and international cooperation.",
+    "history": "Udon Thani was selected as the host city due to its rich natural resources, the ecologically significant Nong Da Wetland, and the region's agricultural potential.",
+    "vision": "To be a world-class platform showcasing Thailand's commitment to sustainable development and nature conservation.",
+    "mission": "To inspire visitors through displays of horticultural innovation, agricultural technology, and environmental conservation.",
+    "objectives": "Promote sustainable tourism, develop green innovation, conserve nature, advance agricultural technology, develop communities, and foster international cooperation.",
+    "importance": "This event is crucial for the economic development, tourism, and international image of Udon Thani province and Thailand."
+  },
+  "highlights": {
+    "title": "Expo Highlights",
+    "subtitle": "Discover Unforgettable Experiences",
+    "flowers": {
+      "title": "International Flower Gardens",
+      "desc": "Witness the beauty of flowers from around the world displayed in magnificent gardens."
+    },
+    "innovation": {
+      "title": "Agricultural Innovation",
+      "desc": "Explore cutting-edge agricultural technology, green innovation, and smart farming."
+    },
+    "wetlands": {
+      "title": "Nong Da Wetlands",
+      "desc": "Explore a vital wetland ecosystem, home to diverse plant and animal species."
+    },
+    "pavilion": {
+      "title": "International Pavilion",
+      "desc": "Experience exhibitions from countries worldwide showcasing horticultural culture and innovation."
+    },
+    "smartAgri": {
+      "title": "Smart Agriculture",
+      "desc": "Learn about modern farming technology and digital farm management systems."
+    }
+  },
+  "attractions": {
+    "title": "Attractions",
+    "subtitle": "Must-See Highlights at the Expo",
+    "botanicalGarden": {
+      "title": "Botanical Garden",
+      "desc": "A vast botanical garden featuring rare plant species from around the world."
+    },
+    "culturalVillage": {
+      "title": "Cultural Village",
+      "desc": "Experience the lifestyle, culture, and local wisdom of Northeastern Thailand."
+    },
+    "innovationHub": {
+      "title": "Innovation Hub",
+      "desc": "Showcasing future agricultural technology, green innovation, and resource management."
+    },
+    "flowerGarden": {
+      "title": "Flower Garden",
+      "desc": "Breathtaking flower gardens with perfect photo opportunities."
+    },
+    "wetlandPark": {
+      "title": "Wetland Park",
+      "desc": "Nature trails through the Nong Da Wetland, rich with diverse ecosystems."
+    }
+  },
+  "statistics": {
+    "title": "Key Statistics",
+    "subtitle": "The Expo in Numbers",
+    "countries": "Participating Countries",
+    "visitors": "Expected Visitors",
+    "area": "Total Area",
+    "plants": "Plant Species",
+    "exhibitions": "Exhibitions"
+  },
+  "timeline": {
+    "title": "Timeline",
+    "subtitle": "Key Events Throughout the Expo",
+    "opening": {
+      "title": "Opening Ceremony",
+      "date": "November 1, 2026",
+      "desc": "Grand opening ceremony with cultural performances and light & sound show."
+    },
+    "midTerm": {
+      "title": "Mid-Expo Activities",
+      "date": "November – February",
+      "desc": "Special events, academic conferences, workshops, and cultural performances throughout the expo."
+    },
+    "newYear": {
+      "title": "New Year Festival",
+      "date": "December 2026 – January 2027",
+      "desc": "Celebrate the New Year with spectacular flower displays, fireworks, and special events."
+    },
+    "closing": {
+      "title": "Closing Ceremony",
+      "date": "March 14, 2027",
+      "desc": "Grand closing ceremony summarizing the success and achievements of the expo."
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Expo Highlights in Pictures"
+  },
+  "visitorInfo": {
+    "title": "Visitor Information",
+    "subtitle": "Everything You Need to Know Before Your Visit",
+    "hours": {
+      "title": "Opening Hours",
+      "weekdays": "Monday – Friday: 09:00 – 20:00",
+      "weekends": "Saturday – Sunday: 08:00 – 21:00"
+    },
+    "transport": {
+      "title": "Transportation",
+      "byCar": "By Car: From Udon Thani city center, take Highway 2 north for approximately 15 km.",
+      "byBus": "By Bus: Shuttle buses from Udon Thani bus station to the expo every 30 minutes.",
+      "byTrain": "By Train: Udon Thani railway station has shuttle service to the expo."
+    },
+    "parking": {
+      "title": "Parking",
+      "desc": "Spacious parking with capacity for over 5,000 cars. Disabled parking available."
+    },
+    "tickets": {
+      "title": "Tickets",
+      "adult": "Adult: 200 THB",
+      "child": "Child: 80 THB",
+      "senior": "Senior (60+): Free",
+      "note": "Students in uniform enter free on weekdays"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "phone": "Tel: +66 42 123 456",
+      "email": "Email: info@udonexpo2026.com",
+      "address": "Nong Da Wetland, Kut Sa, Mueang, Udon Thani 41000, Thailand"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to Common Questions About the Expo",
+    "q1": "When is the Horticultural Expo held?",
+    "a1": "The expo runs from November 1, 2026 to March 14, 2027, a total of 134 days.",
+    "q2": "Where is the expo located?",
+    "a2": "Nong Da Wetland, Kut Sa Subdistrict, Mueang District, Udon Thani Province, approximately 15 km from the city center.",
+    "q3": "How much are tickets?",
+    "a3": "Adult: 200 THB, Child: 80 THB, Senior (60+): Free. Students in uniform enter free on weekdays.",
+    "q4": "Is there parking available?",
+    "a4": "Yes, spacious parking for over 5,000 cars with disabled parking spaces available.",
+    "q5": "Can I bring pets?",
+    "a5": "Pets are not allowed inside the expo grounds, except for guide dogs for the visually impaired.",
+    "q6": "Are there restaurants inside?",
+    "a6": "Yes, there is a large food zone offering Thai cuisine, international dishes, and local specialties.",
+    "q7": "Is the expo suitable for children?",
+    "a7": "Yes, the expo is family-friendly with many activities and learning areas for children.",
+    "q8": "Is there a shuttle service?",
+    "a8": "Yes, shuttle buses run every 30 minutes from Udon Thani bus station and external parking areas.",
+    "q9": "Can I take photos inside?",
+    "a9": "Photography is allowed at all areas except where explicitly prohibited.",
+    "q10": "Can I buy tickets in advance?",
+    "a10": "Yes, you can purchase tickets online in advance through the official website or mobile application."
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "followUs": "Follow Us",
+    "copyright": "© 2026 Udon Thani International Horticultural Expo. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "loading": {
+    "text": "Loading..."
+  },
+  "scrollProgress": {
+    "label": "Scroll Progress"
+  },
+  "language": {
+    "th": "ไทย",
+    "en": "English",
+    "zh": "中文"
+  },
+  "backToTop": {
+    "label": "Back to top"
+  },
+  "seo": {
+    "title": "UDON EXPO 2026 | Udon Thani International Horticultural Expo",
+    "description": "Udon Thani International Horticultural Expo 2026 - Sustainable Tourism, Green Innovation, International Horticulture, Nature Conservation"
+  }
+}
