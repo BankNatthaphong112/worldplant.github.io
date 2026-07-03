@@ -8,6 +8,11 @@ import { Box, Container, Typography, Grid, Chip } from '@mui/material';
 import { motion } from 'framer-motion';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import useLanguage from '../hooks/useLanguage';
+import galleryBotanical from '../assets/images/gallery_botanical.jpg';
+import highlightCulture from '../assets/images/highlight_culture.jpg';
+import highlightInnovation from '../assets/images/highlight_innovation.jpg';
+import highlightNature from '../assets/images/highlight_nature.jpg';
+import galleryWetland from '../assets/images/gallery_wetland.jpg';
 
 const scrollReveal = {
   hidden: { opacity: 0, y: 40 },
@@ -24,11 +29,11 @@ const scrollReveal = {
 
 // Mapping attraction keys to images
 const ATTRACTION_IMAGES = {
-  botanicalGarden: '/images/gallery_botanical.jpg',
-  culturalVillage: '/images/highlight_culture.jpg',
-  innovationHub: '/images/highlight_innovation.jpg',
-  flowerGarden: '/images/highlight_nature.jpg',
-  wetlandPark: '/images/gallery_wetland.jpg',
+  botanicalGarden: galleryBotanical,
+  culturalVillage: highlightCulture,
+  innovationHub: highlightInnovation,
+  flowerGarden: highlightNature,
+  wetlandPark: galleryWetland,
 };
 
 export default function Attractions() {

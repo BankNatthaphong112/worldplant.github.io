@@ -13,6 +13,7 @@ import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 import useLanguage from '../hooks/useLanguage';
+import heroGarden from '../assets/images/hero.jpg';
 
 // Animation variants
 const fadeInUp = {
@@ -65,7 +66,7 @@ export default function Hero() {
             rgba(46, 125, 50, 0.6) 40%,
             rgba(0, 0, 0, 0.3) 100%
           ),
-          url('/images/hero_garden.jpg')
+          url(${heroGarden})
         `,
         backgroundSize: 'cover',
         backgroundPosition: 'center',

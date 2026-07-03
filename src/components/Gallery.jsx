@@ -20,14 +20,20 @@ import CloseIcon from '@mui/icons-material/Close';
 import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 import useLanguage from '../hooks/useLanguage';
+import heroGarden from '../assets/images/hero_garden.jpg';
+import galleryBotanical from '../assets/images/gallery_botanical.jpg';
+import galleryWetland from '../assets/images/gallery_wetland.jpg';
+import highlightNature from '../assets/images/highlight_nature.jpg';
+import highlightCulture from '../assets/images/highlight_culture.jpg';
+import highlightInnovation from '../assets/images/highlight_innovation.jpg';
 
 const galleryImages = [
-  { src: '/images/hero_garden.jpg', alt: 'Hero Garden', cols: { xs: 12, md: 6 } },
-  { src: '/images/gallery_botanical.jpg', alt: 'Botanical Garden', cols: { xs: 12, sm: 6, md: 3 } },
-  { src: '/images/gallery_wetland.jpg', alt: 'Wetland View', cols: { xs: 12, sm: 6, md: 3 } },
-  { src: '/images/highlight_nature.jpg', alt: 'Nature Highlight', cols: { xs: 12, sm: 6, md: 4 } },
-  { src: '/images/highlight_culture.jpg', alt: 'Cultural Highlight', cols: { xs: 12, sm: 6, md: 4 } },
-  { src: '/images/highlight_innovation.jpg', alt: 'Innovation Highlight', cols: { xs: 12, sm: 6, md: 4 } },
+  { src: heroGarden, alt: 'Hero Garden', cols: { xs: 12, md: 6 } },
+  { src: galleryBotanical, alt: 'Botanical Garden', cols: { xs: 12, sm: 6, md: 3 } },
+  { src: galleryWetland, alt: 'Wetland View', cols: { xs: 12, sm: 6, md: 3 } },
+  { src: highlightNature, alt: 'Nature Highlight', cols: { xs: 12, sm: 6, md: 4 } },
+  { src: highlightCulture, alt: 'Cultural Highlight', cols: { xs: 12, sm: 6, md: 4 } },
+  { src: highlightInnovation, alt: 'Innovation Highlight', cols: { xs: 12, sm: 6, md: 4 } },
 ];
 
 export default function Gallery() {
